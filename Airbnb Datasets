@@ -1,0 +1,4 @@
+We have 2 datasets - "airbnb chicago listings" , "airbnb new orleans listings"
+After Cleaning, We merge both dataset using Union Function and the final dataset is - "Cleaned_Airbnb_Data"
+
+Dataset Link - https://drive.google.com/drive/folders/1JynOnilrnEEPYLT-g7xPq_1gaemxDD1b?usp=sharing
