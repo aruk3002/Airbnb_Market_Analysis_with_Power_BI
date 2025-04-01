@@ -42,3 +42,9 @@ Before diving into the visualizations, I conducted a comprehensive data cleaning
 This **Power BI dashboard** brings data to life, offering valuable insights into the Airbnb market.  
 
 📢 **[There's more to uncover! Read the full presentation for more details ➡️](https://airbnb-analysis-insights-he12ky0.gamma.site)**  
+
+---
+
+
+![Dashboard Preview](https://github.com/user-attachments/assets/c9ee8d34-63d5-44c6-9607-e972c99470c5)
+
